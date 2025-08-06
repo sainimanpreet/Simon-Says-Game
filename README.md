@@ -1,6 +1,6 @@
 ---
 # Simon Says Game 🎮
-
+---
 A web-based memory game inspired by the classic "Simon" electronic game. Players replicate increasingly long sequences of colors to test recall and reaction time.
 
 ## 🧠 Gameplay Overview
